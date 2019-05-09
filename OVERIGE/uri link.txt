@@ -1,0 +1,3 @@
+link naar uri : http://128.199.60.110:8000/api/projects
+link naar webservice.json : https://stud.hosted.hr.nl/0948132/webservice/webservice.json
+FIELDS title, catergory, description
